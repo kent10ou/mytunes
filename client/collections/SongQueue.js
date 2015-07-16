@@ -12,6 +12,7 @@ var SongQueue = Songs.extend({
   add: function () {
   	// needs a queue function?
   	// add the song to a queue
+
   },
 
   remove: function () {

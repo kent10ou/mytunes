@@ -2,15 +2,8 @@
 var SongModel = Backbone.Model.extend({
 
   initialize: function(){
-  //this.url = url,
-    //console.log(e.title);
-    // debugger;
-    //this.set( { 'title': e } );  
-  // this.title = tit
-    // this.set( { artist: "this.artist"} );
-  // this.artist = artist,
-  //  this.set('artist');
   },
+  
   defaults: {
     "title": "",
     "artist": "",
